@@ -3,3 +3,4 @@ export const produtos =[
     {id:2 , nome: 'Mouse Gamer', preco: 150.00, estoque:50 , categoria: 'Informatica'},
     {id:3, nome: 'Teclado Mecânico', preco: 450.00, estoque:30 , categoria:'Informatica' }
 ];
+
